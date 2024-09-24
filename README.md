@@ -1,3 +1,5 @@
+✨ Welcome to my GitHub profile! ✨
+
 - 👋 Hi, I’m @NJS76UKFR
 - 👀 I’m interested in MOVIES & SERIES
 - 🌱 I’m currently learning TO IMPREVE MY USE OF EXCEL
@@ -6,8 +8,6 @@
 - 😄 Pronouns: HIS
 - ⚡ Fun fact: ...
 
-<!---
-✨ Welcome to my GitHub profile! ✨
 I'm an experienced English Teacher with a strong background in administration and education, looking to transition into a new administrative role. My career has allowed me to develop a broad range of skills, from classroom management to pedagogical leadership, and I'm eager to apply them in an administrative environment.
 
 Career Highlights:
